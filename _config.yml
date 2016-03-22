@@ -1,0 +1,28 @@
+name: Dr. João Carlos Leitão
+favicon: null
+layout_spectrum: 0.527684688102454
+typography_spectrum: 0.20431508123874664
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6728588272817433
+  lightness: 0.569880313705653
+  saturation: 0.9411186014767736
+  rhythmicContrast: 0.48425947478972375
+purpose: []
